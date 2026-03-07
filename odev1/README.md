@@ -1,2 +1,2 @@
-# odev1
+Cifar10 datasetinde nearest neighboor sınıflandırıcısı
 
