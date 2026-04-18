@@ -1,0 +1,619 @@
+{
+  "toplam_goruntu": 151,
+  "toplam_kuron": 258,
+  "ortalama_kuron": 1.7,
+  "maks_kuron": 17,
+  "sure_saniye": 31.2,
+  "goruntu_basi_ms": 206.9,
+  "dagilim": {
+    "0 kuron": 63,
+    "1-3 kuron": 63,
+    "4+ kuron": 25
+  },
+  "tespitler": [
+    {
+      "dosya": "05e07869-Rahimi_Moslem_2022-06-12141630_jpg.rf.4b818460c79b1cebdf4a41deed2b72d5.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "06aceb48-Rahimi_Arefeh_2022-06-12142023_jpg.rf.2928cac7315c53b134a6872e9f5f35ac.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "0ab29cbb-Dahghani_sanij_Mani_16yo_02062021_122725_jpg.rf.8c467ca16fd4c0f2bdbb8e310bf13024.jpg",
+      "kuron_sayisi": 5
+    },
+    {
+      "dosya": "105250000-jpg_png_jpg.rf.2f7364137297ccf9d85d690736c588d9.jpg",
+      "kuron_sayisi": 4
+    },
+    {
+      "dosya": "1104270000-jpg_png_jpg.rf.a7609208e95a8624f1bc754f2b796db1.jpg",
+      "kuron_sayisi": 3
+    },
+    {
+      "dosya": "1114550000-jpg_png_jpg.rf.ff92f3aa6f9bf4c65784ddabac766b20.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "1143600000-jpg_png_jpg.rf.15edaba39711f753237d5f20636b22fe.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "1154870000-jpg_png_jpg.rf.b58bc86b0009ff155104cacef61b4e4f.jpg",
+      "kuron_sayisi": 4
+    },
+    {
+      "dosya": "1197960000-jpg_png_jpg.rf.9f3630b5aa21e2d46196dbdf06d2940a.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "1226290000-jpg_png_jpg.rf.2210c0cc44136ab0fbc78cd83f2c8dd6.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "1433980000-jpg_png_jpg.rf.73300377737a99573622bca3920ea1be.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "1561550000-jpg_png_jpg.rf.36d15e2ad125d78304fb1de7179e730f.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "1675950000-jpg_png_jpg.rf.58c4d78d6a90166f3bf33c9d6da4354b.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "1743580000-jpg_png_jpg.rf.bcc96090f893a17f87bac60700628ce9.jpg",
+      "kuron_sayisi": 6
+    },
+    {
+      "dosya": "1838000000-jpg_png_jpg.rf.acea8eaef2765103a32f8719975d3818.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "189590000-jpg_png_jpg.rf.974af31fef8637d1bade724308cad283.jpg",
+      "kuron_sayisi": 4
+    },
+    {
+      "dosya": "2106320000-jpg_png_jpg.rf.676873d0f427c181369c0f9d0af495a0.jpg",
+      "kuron_sayisi": 12
+    },
+    {
+      "dosya": "2127480000-jpg_png_jpg.rf.cb9055047cad1154edcfbca9fc175233.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "2145150000-jpg_png_jpg.rf.c67cde5e80de9bd5b461462d13621f1f.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "222010000-jpg_png_jpg.rf.3deab447d054b1b2578267514d9daa7d.jpg",
+      "kuron_sayisi": 7
+    },
+    {
+      "dosya": "2226710000-jpg_png_jpg.rf.92c014defe6c424cc7f1bee83b491811.jpg",
+      "kuron_sayisi": 3
+    },
+    {
+      "dosya": "24f61afc-FARHAD_NARJES_2020-06-13195857_jpg.rf.f371ba2995c9e5a4eb1a218041412e9e.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "25620af9-JAFARY_MALIHEH_2020-08-19103421_jpg.rf.e1a1859f6a95b90292dcc0da050a1faf.jpg",
+      "kuron_sayisi": 4
+    },
+    {
+      "dosya": "2579470000-jpg_png_jpg.rf.18b194b50247ee133d62146b33027298.jpg",
+      "kuron_sayisi": 3
+    },
+    {
+      "dosya": "2648530000-jpg_png_jpg.rf.06756bc0b0f620050a6ca1e2116772a4.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3031110000-jpg_png_jpg.rf.d11fcaf928bfaac173db7b91fe3a3b0d.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3111110000-jpg_png_jpg.rf.129509edbb9beae509b97fac9900059e.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3150110000-jpg_png_jpg.rf.41934cdb1f2f2555fb4a82c488eb4b54.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3207240000-jpg_png_jpg.rf.139d5dbf1979354ae659470d4c29715f.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3274380000-jpg_png_jpg.rf.ff4018a61b5f71edfd24a18324193916.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "332882d4-Simorq_Davod_2020-09-12130135_jpg.rf.2404f3fb3bd03147e756f43eb0499fe6.jpg",
+      "kuron_sayisi": 8
+    },
+    {
+      "dosya": "3334720000-jpg_png_jpg.rf.6b5981f6fb1eb0c71deb2a3382e6a438.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3342590000-jpg_png_jpg.rf.a1d0bec65a8a16353384a7e57aa7c7e4.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3354600000-jpg_png_jpg.rf.38c6ed192ed885f1fd15d335cf6a75a2.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "339eee12-NAJAFI_MARYAM_2020-06-13205811_jpg.rf.b0f05d54a9639207b4039f52ccd69aea.jpg",
+      "kuron_sayisi": 3
+    },
+    {
+      "dosya": "3570870000-jpg_png_jpg.rf.395bd47efb321b1ab5aeb967caf2b561.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3570980000-jpg_png_jpg.rf.a3976c839ff9dcc2ada0b6295a470cab.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3576530000-jpg_png_jpg.rf.64e0faf13f5d0437417fb5faae32be4f.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3601320000-jpg_png_jpg.rf.2daf01a446157465cf30fa0463a463c4.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3602490000-jpg_png_jpg.rf.48e69cbf5bdc8453c220e36dacf6dd82.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3603550000-jpg_png_jpg.rf.515c3d7b1e7dff60d2fb73169fdc5957.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3604480000-jpg_png_jpg.rf.0dd41aa19466ac3b905ddd249903e10c.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3604940000-jpg_png_jpg.rf.815e5352292edc05c5245fd7837fabcc.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3609350000-jpg_png_jpg.rf.8ee1383795f9a8f1252f7a6860250d2f.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3613090000-jpg_png_jpg.rf.6c0e64eb2d6db49a650db115ecdb54b6.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3621060000-jpg_png_jpg.rf.85be71522093881ac7bf1f15aabdf47b.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3622770000-jpg_png_jpg.rf.2b2243eb46473c60898e95cc31e059df.jpg",
+      "kuron_sayisi": 4
+    },
+    {
+      "dosya": "3627940000-jpg_png_jpg.rf.7eef0a2a098df8dd8dd6bea1f831fd06.jpg",
+      "kuron_sayisi": 3
+    },
+    {
+      "dosya": "3636170000-jpg_png_jpg.rf.8553ecb81e5c8d3bd7d549bd7dfb7329.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3639330000-jpg_png_jpg.rf.8314cbe8e8f7fc7495c1d1bd097430e3.jpg",
+      "kuron_sayisi": 4
+    },
+    {
+      "dosya": "3645500000-jpg_png_jpg.rf.944720f7ac03851304b632e3597c6359.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3666400000-jpg_png_jpg.rf.685a54a8df199fe7a33e510079a0b202.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3668100000-jpg_png_jpg.rf.d2c4708d21c115cb9f6c489673ea9900.jpg",
+      "kuron_sayisi": 3
+    },
+    {
+      "dosya": "3668400000-jpg_png_jpg.rf.92dd7b21c04cd262858af76afe0ec692.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3669300000-jpg_png_jpg.rf.00a46fc030762038bc3d0c46f02a1ab4.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3672230000-jpg_png_jpg.rf.f1972ce9b24ae9a95027fea77b19f8de.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3686780000-jpg_png_jpg.rf.6b3a7155fa3d507f6cc6f11ff9c89f4a.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3698160000-jpg_png_jpg.rf.9caf0f578eada9d21990d6b18e26e764.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3711000000-jpg_png_jpg.rf.7d15796624371aab1b1d3eb2c5e0d1c7.jpg",
+      "kuron_sayisi": 3
+    },
+    {
+      "dosya": "3711740000-jpg_png_jpg.rf.a51036350766a02503372e482eb8791c.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3739300000-jpg_png_jpg.rf.c73449241a3a9dd9b2dfba88754c933a.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3750190000-jpg_png_jpg.rf.c7a3b80893d75fb528b76e77309ff272.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3754430000-jpg_png_jpg.rf.f8a428dc7ee83d7ef36f46661d8bd1c9.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3758150000-jpg_png_jpg.rf.b9258e810a93a9fa7b4adc52886128fb.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3777270000-jpg_png_jpg.rf.8d678378f9cc0dfdddf2623622c73d07.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3777520000-jpg_png_jpg.rf.c8a8e4d3036223812c63e5c213dee8b8.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3778630000-jpg_png_jpg.rf.6e77f7ba9be2669f46f0b028b3e02dea.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3781770000-jpg_png_jpg.rf.8fb13f62301ea7f9cec6a9784980c2a0.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3787690000-jpg_png_jpg.rf.ebc0635a24ad59f26ab551768baf1283.jpg",
+      "kuron_sayisi": 3
+    },
+    {
+      "dosya": "3789290000-jpg_png_jpg.rf.4d30306a2a1ec9d9619a88daa6166bbc.jpg",
+      "kuron_sayisi": 4
+    },
+    {
+      "dosya": "3793910000-jpg_png_jpg.rf.030883cc26ceee900fa697481f1cbe58.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3795190000-jpg_png_jpg.rf.ebb5c077d2b6e9e437f934263e2e21f6.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3796420000-jpg_png_jpg.rf.bfa20593998809fcec0dd9b7c3535444.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3798290000-jpg_png_jpg.rf.bd84edfec0bf133238f455eb13ed2dba.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3805350000-jpg_png_jpg.rf.e063d4fab6a60b2812380eb039031b21.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3813810000-jpg_png_jpg.rf.47910460fc3768d0571e4ce5ac8c92ba.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3817650000-jpg_png_jpg.rf.551bc8bc0c1dbf8bc7a825a4a2d0c712.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3823660000-jpg_png_jpg.rf.3972dd9e8bcb92c7902170f3406f54db.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3827420000-jpg_png_jpg.rf.2e9886ddaeaf2422e1d47a421443656a.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3846070000-jpg_png_jpg.rf.4db3929e43e3d35e0016eb375f79201e.jpg",
+      "kuron_sayisi": 3
+    },
+    {
+      "dosya": "3852950000-jpg_png_jpg.rf.97c7c4ef2d329bc7a977f0864e2af16f.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3852980000-jpg_png_jpg.rf.5708a6ddceb3ad942baaebe5f6605e72.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3853780000-jpg_png_jpg.rf.1bfda810739daf3316bc7c44b7d55f60.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3859340000-jpg_png_jpg.rf.8a0ce1c1e4bc9197d4e4b760ad68c042.jpg",
+      "kuron_sayisi": 7
+    },
+    {
+      "dosya": "3861240000-jpg_png_jpg.rf.51da375848e6f1a0f58dd2bdd3aa5277.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3867880000-jpg_png_jpg.rf.90a0a66af86c08f598f2faba9e728b7d.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3869110000-jpg_png_jpg.rf.9b58e8af431513b5212b008699c3358a.jpg",
+      "kuron_sayisi": 4
+    },
+    {
+      "dosya": "3870780000-jpg_png_jpg.rf.c83ca403a2c7161963d9cf98b5163214.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3872820000-jpg_png_jpg.rf.c11a3b927bed5f8615706c46bfcde755.jpg",
+      "kuron_sayisi": 4
+    },
+    {
+      "dosya": "3875100000-jpg_png_jpg.rf.b99786159fbcd4d64ea376cd3449790f.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3883310000-jpg_png_jpg.rf.e6754ede3b3d93c894050d2cd5098b82.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3899350000-jpg_png_jpg.rf.3b8ed29d5c5eff618263febd268cacef.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3904700000-jpg_png_jpg.rf.1306a66fdfd88c821ef7a54e298e81d8.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3913820000-jpg_png_jpg.rf.fe74ceae485b6f7a38764b80a92aa0fc.jpg",
+      "kuron_sayisi": 5
+    },
+    {
+      "dosya": "3919290000-jpg_png_jpg.rf.2b37edcce015e74fc6265b4d186aa384.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3924560000-jpg_png_jpg.rf.fa8d1cf58d327a5d7eae1ce12f9561aa.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3924930000-jpg_png_jpg.rf.994f8f01243bfa04ea7a9e4e29277066.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3927970000-jpg_png_jpg.rf.cac699678258c62fe7f06c61cf5a9888.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3928370000-jpg_png_jpg.rf.a43d5bddbd3a2c403d4f039afa733f89.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3930290000-jpg_png_jpg.rf.3a3519c7d8dbb42d5ea1ba5e80f8c1a9.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3935710000-jpg_png_jpg.rf.b1aec20c3d9f782c3ba24d9b785d5e65.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3936500000-jpg_png_jpg.rf.77e12c4a29e125d57782f8947824fc41.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "393750000-jpg_png_jpg.rf.e258c068d1ff40371e0e3ce86defa842.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3938260000-jpg_png_jpg.rf.dc9b700d38e72ea9e766617573642ec6.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3939410000-jpg_png_jpg.rf.b594ece3357a7514bc12797c60c1607d.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3940140000-jpg_png_jpg.rf.f8fdaf776566bede3db6a6714245e490.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3942770000-jpg_png_jpg.rf.d7d194efa2b015fbbf7788acebbc91a3.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3944810000-jpg_png_jpg.rf.3df03ea3142f4a40f2d2c4d1d7711c36.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3945970000-jpg_png_jpg.rf.612549e077920f2bbadb92cade952c89.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3946280000-jpg_png_jpg.rf.df390f701fc48fb2b289fe032c1ef86b.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3958200000-jpg_png_jpg.rf.8d7873bf4c2ee7c41b960757136390bf.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3958820000-jpg_png_jpg.rf.840ea4f6f30528fa9ef3cd53784fc7e1.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3959270000-jpg_png_jpg.rf.b5dbd4330d76e14bfb97b8e757757d4a.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3960460000-jpg_png_jpg.rf.5eaf70910670a36f070ab5bc99253745.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3965360000-jpg_png_jpg.rf.2f74763cad11d505c8a4dafc32e28732.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3965710000-jpg_png_jpg.rf.33857bfdc3453265a772f9f70dcb3437.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3967190000-jpg_png_jpg.rf.518c812ccf3ec9088d77ab4974ef4de8.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3971630000-jpg_png_jpg.rf.0c5116c872a6b2843d904dc69718f4fb.jpg",
+      "kuron_sayisi": 3
+    },
+    {
+      "dosya": "3974250000-jpg_png_jpg.rf.46c8a9402ab885fb2895566cfede8fd4.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "3977850000-jpg_png_jpg.rf.63fef1d231af160250a6b5420d90c38a.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3978810000-jpg_png_jpg.rf.4053d3c5af0ca1455243fa6e843f472f.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3978970000-jpg_png_jpg.rf.206c6113186b5ee26b710c8f9ff24be8.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3984590000-jpg_png_jpg.rf.d8224d621c101965a0f0171a7e17d63a.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3985270000-jpg_png_jpg.rf.95052f314d2a7a06a3b3136d80e978d3.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3989180000-jpg_png_jpg.rf.6342387fc80d0fdcb19136d9d8eedaab.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3991350000-jpg_png_jpg.rf.df514c9a88a89921e2e8237f9fdd88d2.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3991500000-jpg_png_jpg.rf.56e0e0608fc0131dbd39aa9096fb210f.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3991520000-jpg_png_jpg.rf.f358c0773273f4fb45f06b28081696c0.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3996170000-jpg_png_jpg.rf.d2e7b5ae988ad59f578718a7b5b95bc9.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "3996810000-jpg_png_jpg.rf.662ec7a1ffe745d7aa043320f342b428.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "3f72c699-Avize_Behzad_2022-06-12141052_jpg.rf.e4a39102b5f260859e4ac172cb459194.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "4001000000-jpg_png_jpg.rf.484eb7d197655bd98adea9547f2f1d19.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "4001530000-jpg_png_jpg.rf.cf3d52f2c95160ccec9b56cecd311356.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "483690000-jpg_png_jpg.rf.93d2a907eff29477cef9066f4d52c6bc.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "5224d8e3-Ghazavi_Masomeh_2022-06-12141821_jpg.rf.89924d9e0cad4754957a91f8fd24013e.jpg",
+      "kuron_sayisi": 3
+    },
+    {
+      "dosya": "571b34df-Mosoli_Maryam_2022-05-14210902_jpg.rf.f95f8ee9f7eac2171e3cf99329cbdd0d.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "584b977f-Boroghani_Samira_39yo_07102020_180215_jpg.rf.377a36f260b0dd47c78e97d302173a00.jpg",
+      "kuron_sayisi": 17
+    },
+    {
+      "dosya": "610450000-jpg_png_jpg.rf.020976ee36d50f554f32773bc6afa874.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "6601a854-BABAKHANLO_ZEYNAB_2020-07-07121213_jpg.rf.158633f33cab20b4d68575c92e94107e.jpg",
+      "kuron_sayisi": 7
+    },
+    {
+      "dosya": "6883e9a4-Sarkheil_Arezu_2022-06-12140342_jpg.rf.ca3eda451c2c08997afbe2ee7b8adda6.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "728710000-jpg_png_jpg.rf.64fd8e4b1a0c000c14d2c579f72d1184.jpg",
+      "kuron_sayisi": 5
+    },
+    {
+      "dosya": "74dc8eec-GHAHRAMANI_ILIA_2020-06-10192000_jpg.rf.ac7d875e5ada9ac843c95d7d615f5f9f.jpg",
+      "kuron_sayisi": 0
+    },
+    {
+      "dosya": "955610000-jpg_png_jpg.rf.c0fa84beaa4521cbe89d3735a6edf8d7.jpg",
+      "kuron_sayisi": 1
+    },
+    {
+      "dosya": "95575d7a-Khazaee_Abbas_2022-06-12142012_jpg.rf.4e61fd22b1922c7c901c4fb2536c4667.jpg",
+      "kuron_sayisi": 8
+    },
+    {
+      "dosya": "95bbf1e3-Ghafary_Masood_2022-06-12141922_jpg.rf.11d1a0acaf466773ac565135bb43daa5.jpg",
+      "kuron_sayisi": 4
+    },
+    {
+      "dosya": "976150000-jpg_png_jpg.rf.df50cf2152c625a9d2325cea9707e944.jpg",
+      "kuron_sayisi": 4
+    },
+    {
+      "dosya": "97dec6a2-SHERKAT_SAEED_2020-07-14174241_jpg.rf.87ab82de408524ef0f07017a89a742d9.jpg",
+      "kuron_sayisi": 7
+    },
+    {
+      "dosya": "9a6f22d2-ROMANI_AMIRABBAS_2020-08-02204255_jpg.rf.348cdb549e33b4b663b99567fd7ffe6e.jpg",
+      "kuron_sayisi": 2
+    },
+    {
+      "dosya": "9ae0366e-Faghani_delshad_Afrooz_2022-05-14121823_jpg.rf.ad3678631677f1a31a5fd15f043796c5.jpg",
+      "kuron_sayisi": 5
+    },
+    {
+      "dosya": "9ca39105-MORTAJI_SAEIDEH_2020-06-16104607_jpg.rf.860e46d66f00c18017468959f0ef3096.jpg",
+      "kuron_sayisi": 10
+    },
+    {
+      "dosya": "9dfca0bf-Mohamadi_Jasem_2022-06-12141714_jpg.rf.32d96241488a005d31f7d0676471300c.jpg",
+      "kuron_sayisi": 1
+    }
+  ]
+}

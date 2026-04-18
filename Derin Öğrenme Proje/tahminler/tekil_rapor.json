@@ -1,0 +1,31 @@
+{
+  "dosya": "955610000-jpg_png_jpg.rf.c0fa84beaa4521cbe89d3735a6edf8d7.jpg",
+  "kuron_sayisi": 1,
+  "sure_ms": 269.4,
+  "tespitler": [
+    {
+      "id": 1,
+      "sinif": "crown",
+      "guven": 25.8,
+      "obb_koordinatlar": [
+        [
+          175.56268310546875,
+          853.4290771484375
+        ],
+        [
+          292.8457336425781,
+          795.536865234375
+        ],
+        [
+          167.95526123046875,
+          542.5230712890625
+        ],
+        [
+          50.672218322753906,
+          600.415283203125
+        ]
+      ]
+    }
+  ],
+  "kayit_yeri": "C:\\Users\\pc\\PycharmProjects\\Derin Ogrenme\\kron_tespit_projesi_YOLO_Roboflow\\kron_tespit_projesi\\tahminler\\tahmin"
+}
